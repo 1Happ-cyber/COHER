@@ -48,7 +48,7 @@ The `agent_DRL/` directory contains modified versions of the original code. Plea
 - Python >= 3.8
 - PyTorch >= 1.10.0
 
-安装所需依赖包：
+安装所需依赖包类：
 
 ```bash
 git clone https://github.com/1Happ-cyber/COHER.git
