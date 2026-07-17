@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)
-[![Paper](https://img.shields.io/badge/Paper-Accepted-success.svg)](#) <!-- 在这里替换为你的论文链接 -->
+[![Paper](https://img.shields.io/badge/Paper-Accepted-success.svg)](https://link.springer.com/chapter/10.1007/978-981-92-2864-5_14) <!-- 在这里替换为你的论文链接 -->
 
 本仓库是论文 **"Balancing Tripartite Interests in Cloud Service Composition and Optimal Selection via Curriculum-based Reinforcement Learning"** 的官方 PyTorch 实现。
 
